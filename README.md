@@ -1,5 +1,5 @@
 # OCR-ITSP-2018
-## Optical character recognition using the EMNIST dataset and self-designed image segmentation and processing algorithms. Capable of recognizing text from a relatively clean image of a document. The project report is a good place to start for understanding how the project works.
+### Optical character recognition using the EMNIST dataset and self-designed image segmentation and processing algorithms. Capable of recognizing text from a relatively clean image of a document. The project report is a good place to start for understanding how the project works.
 
 The OCR folder contains code to run on English characters and the OCRDigits folder contains code to run on numeric digits. The latter has a much greater accuracy.
 
