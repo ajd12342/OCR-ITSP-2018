@@ -1,0 +1,123 @@
+# Created by Octave 4.4.0, Sat Jul 14 13:10:40 2018 GMT <unknown@DESKTOP-AQB4GHE>
+# name: letter_top_down_global
+# type: cell
+# rows: 1
+# columns: 2
+# name: <cell-element>
+# type: cell
+# rows: 1
+# columns: 2
+# name: <cell-element>
+# type: matrix
+# rows: 7
+# columns: 3
+ 13 71 1
+ 30 72 1
+ 30 72 0
+ 30 72 1
+ 30 72 1
+ 18 72 1
+ 30 72 1
+
+
+
+# name: <cell-element>
+# type: matrix
+# rows: 5
+# columns: 3
+ 30 72 1
+ 30 72 1
+ 18 72 1
+ 8 72 1
+ 30 72 1
+
+
+
+
+
+
+# name: <cell-element>
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: matrix
+# rows: 8
+# columns: 3
+ 118 182 0
+ 118 182 1
+ 118 182 1
+ 140 182 1
+ 140 182 1
+ 125 202 0
+ 140 182 1
+ 128 182 0
+
+
+
+
+
+
+
+
+# name: letter_pos_global
+# type: cell
+# rows: 1
+# columns: 2
+# name: <cell-element>
+# type: cell
+# rows: 1
+# columns: 2
+# name: <cell-element>
+# type: matrix
+# rows: 7
+# columns: 2
+ 18 66
+ 69 103
+ 108 167
+ 170 204
+ 208 241
+ 244 273
+ 274 307
+
+
+
+# name: <cell-element>
+# type: matrix
+# rows: 5
+# columns: 2
+ 342 375
+ 378 416
+ 421 451
+ 452 490
+ 494 530
+
+
+
+
+
+
+# name: <cell-element>
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: matrix
+# rows: 8
+# columns: 2
+ 16 76
+ 76 112
+ 113 151
+ 154 188
+ 194 225
+ 242 317
+ 320 358
+ 363 426
+
+
+
+
+
+
+
+
